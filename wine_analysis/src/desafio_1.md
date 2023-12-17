@@ -15,3 +15,5 @@ b. Distribuição do teor alcoolico por qualidade do vinho. c. Relação entre a
 d. Relação entre teor alcoolico e qualidade do vinho.
 5. Analise os resultados e responda às seguintes perguntas:
 a. Qual a acidez volátil média dos vinhos de qualidade elevada? b. Qual a relação entre teor alcoolico e qualidade do vinho? c. Há alguma relação entre acidez volátil e teor alcoolico? d. Há alguma relação entre acidez volátil e qualidade do vinho?
+
+Link da base de dados: https://www.kaggle.com/datasets/rajyellow46/wine-quality?resource=download
