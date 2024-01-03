@@ -6,6 +6,6 @@ Linguagem: Python
 Fases:
 
 * Definição do Problema
-* Preparação dos Dados (Tratamento de Missing values, seleção de features, categorização)
-* Criação do Modelo de Machine Learning (Random Forest, Avaliação de Métricas)
+* Preparação dos Dados (Tratamento de Missing values, seleção de features, categorização, etc)
+* Criação do Modelo de Machine Learning (Escolha domodelo e Avaliação de Métricas)
 * Colocando em Produção (Streamlit)
