@@ -1,5 +1,6 @@
 # Projeto: Previsão de Gastos Futuros com a Produção Hospitalar no Brasil
-Objetivo: Desenvolver um modelo de previsão para estimar os gastos futuros com produção hospitalar em diferentes estados e atingir uma acuracidade maior que 75%.
+
+**Objetivo**: Desenvolver um modelo de previsão para estimar os gastos futuros com produção hospitalar em diferentes estados e atingir uma acuracidade maior que 75%.
 
 Linguagem: Python
 
